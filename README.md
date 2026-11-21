@@ -4,3 +4,5 @@ Distribución privada de versiones y actualizaciones de FootopiaCare para servid
 ## Footopia Care (TypeScript)
 
 Versiones en `typescript/ts-v<versión>/` (instalador del servidor + monitor para Windows, monitor suelto y APK Android). Cada carpeta incluye `NOTAS.md` y `SHA256SUMS.txt`. Para actualizaciones automáticas desde el monitor, publicar además un GitHub Release con la etiqueta `ts-v<versión>` y estos archivos como assets.
+
+**Última:** `ts-v0.3.1` (candidata de prueba). `ts-v0.3.0` está retirada para Android (no abre el almacenamiento local); se conserva sin cambios como registro.
