@@ -1,0 +1,4 @@
+fc467b27c98605a95a2e37acfef28b34b8cda6db33971a7622ca9cff9de5b52d  FootopiaCare-Android-0.3.8-debug.apk
+5cbd63d660431d86a2aeeca394d86e3a8b2b74134687589400a49c052869e315  FootopiaCare-Monitor-0.3.8-win-x64.zip
+72d8c97c9723b78810985fdf8848236fce881bb7ee2c1301d740c1d1b185ba8b  FootopiaCare-Servidor-0.3.8-win-x64.zip
+677fd9d92a235b1668ef73bc281578cdca372e3ca6e3439149c0e22acfce6f71  FootopiaCare-Servidor-Setup-0.3.8.exe
